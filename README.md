@@ -8,6 +8,7 @@ As Wikipedia says:
 
 For all information about Proxmox, please visit the official [Github](https://github.com/proxmox) and the website [www.proxmox.com.](https://www.proxmox.com/)
 
+In the described projects, I use Proxmox 8.x.
 
 
 ## Projects:
