@@ -20,3 +20,11 @@ In the described projects, I use Proxmox 8.x.
 
 Hosting an MS SQL Server in a properly configured LXC container allows access to it within the local network
 </div>
+
+---
+
+### 💾 Jenkins on Proxmox
+
+#### **Description**: 
+<div>Jenkins, hosted on Proxmox, automates routine tasks in software development, such as building projects and running scheduled jobs. It specializes in creating seamless environments for software testing and excels in continuous integration, ensuring smooth project executions.
+</div>
