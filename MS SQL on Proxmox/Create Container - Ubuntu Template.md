@@ -35,7 +35,8 @@ Proceed to the next page
 7.   `Network` tab:<br>
 ***Enter*** an IP address that differs from your router's address in the `IPv4/CIDR` field.<br>
 ***Input*** your router's IP address in the `Gateway` field.<br>
-![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/0716c914-be9e-4d58-93ab-3248bd7af79b)<br>
+![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/2b348125-cf88-4e8a-b2f1-a46546523ebd)
+<br>
 Leave the remaining fields as they are set by default
 Click on ``
 
