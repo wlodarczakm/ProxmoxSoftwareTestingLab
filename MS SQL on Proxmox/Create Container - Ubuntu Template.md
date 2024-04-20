@@ -47,11 +47,3 @@ Complete the installation by ***press*** on `Finish` button
 
 The installation has been completed successfully - a new  container has been created
 ![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/2bf8aff2-85f3-4039-b506-5b81bb2a588a)
-
-
-
-
- **Links:**
-
-[MS Official guide for SQL Server installation ](https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-ver16&tabs=ubuntu2204)
-Choose the storage location for the downloaded Ubuntu image.
