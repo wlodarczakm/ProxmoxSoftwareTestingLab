@@ -1,4 +1,6 @@
-## This guide provides step-by-step instructions on how to Create a Container using Ubuntu `CT Template`
+## This guide provides step-by-step instructions on how to Create a Container using Ubuntu template in this example
+
+#### The steps are similar for other distributions
 
 1. If you are already logged in to Proxmox, the first step is to ***click*** on `Create CT` in the top right corner
 
