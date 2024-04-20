@@ -16,7 +16,7 @@ When the download is completed<br>
 
 ![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/6ee54306-eb02-480f-90a1-981d77bf398d)
 
-4.  On `General` tab:<br>
+4.  On `General` tab⤵️<br>
 ***choose*** the `Node` <sup> or leave the default</sup>, <br>
 ***set***: `CT ID`, `Hostname`,<br>
 ***type in*** your root password in the `Password` and `Confirm password` fields
@@ -24,16 +24,26 @@ When the download is completed<br>
 ![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/00e2ac21-3a07-4e21-8850-f4cbf52411c9)<br>
 you can leave `Unprivileged container` and `Nesting` checkboxes as it is set by default (✅) and ***click*** the `Next` button
 
-5.  On the next tab ➡️ ***select*** the `Storage` where the LXC container will be created, and ***choose*** the Ubuntu image for the `Template`.<br>
+5.  On the next (`Template`) tab ➡️ ***select*** the `Storage` location for the downloaded Ubuntu template , and ***choose*** the Ubuntu image for the `Template`.<br>
 ![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/433457e6-6e6c-4ee5-a4fc-8c85abc59334)<br>
 and tap on `Next`
 
-6.  `Disks` tab
-7.  sd
-8.  sd
+6.  `Disks` tab<br>
+***select*** the `Storage` where the LXC container will be created, and ***enter*** the `Disk size`<br>
+👉Microsoft's [Ubuntu: Install SQL Server on Linux - Prerequisites](https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-ver16&tabs=ubuntu2204#prerequisites)
+![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/a410a0f0-d289-488d-80a8-34d97468336f)<br>
+Continue to the next tab
+
+7.  On the `CPU` section, ***choose*** the number of CPUs you want
+![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/b29c1847-f8d5-48e6-95d4-131dcdde7e5c)<br>
+In my example, I'll give it 2 cores<br>
+Proceed to the next page
+
+8.  In the `Memory` 
 9.  ds
 10.    
 
  **Links:**
 
 [MS Official guide for SQL Server installation ](https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-ver16&tabs=ubuntu2204)
+Choose the storage location for the downloaded Ubuntu image.
