@@ -35,13 +35,30 @@ You should get result like this:<br>
 `curl -fsSL https://packages.microsoft.com/keys/microsoft.asc | sudo gpg --dearmor -o /usr/share/keyrings/microsoft-prod.gpg`
 ![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/f8e85a34-af3b-4a53-9a6b-33b4e6bcb841)<br>
 
-and next command:<br>
+and next - step 2- command:<br>
 `curl -fsSL https://packages.microsoft.com/config/ubuntu/22.04/mssql-server-2022.list | sudo tee /etc/apt/sources.list.d/mssql-server-2022.list`
-![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/2804443d-777f-443f-b3ab-29775b278f5a)
 
-10. sd
-11. sd
-12. sd
-13. 
+10. Use the following commands to install MS SQL Server:<br>
+- `apt update` - if you receive a warning like this:<br>
+![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/00bd4a82-35a3-452f-98a9-fb0393df2f1e)<br>
+use second command from Microsoft's guide([ss above](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/f8e85a34-af3b-4a53-9a6b-33b4e6bcb841)) - step 1 
+`curl https://packages.microsoft.com/keys/microsoft.asc | sudo tee /etc/apt/trusted.gpg.d/microsoft.asc`<br>
+![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/76d30832-7dda-4c1e-aa4c-decd3b85a036)<br>
+then use:<br>
+- `apt install -y mssql-server`<br>
+you will get output like this:<br>
+`Please run 'sudo /opt/mssql/bin/mssql-conf setup'`<br>
+`to complete the setup of Microsoft SQL Server`<br>
+`+--------------------------------------------------------------+`<br>
+`Processing triggers for man-db (2.10.2-1) ...`<br>
+`Processing triggers for libc-bin (2.35-0ubuntu3.7) ...`<br>
+11. ***Type in*** `sudo /opt/mssql/bin/mssql-conf setup`<br>
+1️⃣ then ***select version*** - in this example, I'm selecting the express version<br>
+2️⃣ next prompt ➡️ ***type***: yes and hit Enter<br>
+3️⃣ ***create*** sever admin password
+![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/d0eed908-6429-4b1e-b488-c2a08b8c52ce)
+
+## Now your MS SQL Server is ready to go 👍
+
 
 
