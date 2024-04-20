@@ -15,3 +15,4 @@ use command: `pveam update`
 ![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/0171226d-2413-49cf-b657-3c390855edd6)<br>
 7. Now the Ubuntu 23.10 is on the list <br>
 ![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/615cf5ef-99c4-4c42-a003-fa4978778007)<br>
+### This is how you downloaded your CT Template image
