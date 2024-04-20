@@ -13,5 +13,5 @@ Hosting an MS SQL Server in a properly configured LXC container allows access to
 4.  ***Run*** your Container (if You don't know how - [click here](/Guides/How%20to%20Run%20a%20Container.md))<br>
 5.  [***Configure***  Ubuntu + ***Download and install*** **MS SQL Server**](Setup%20Ubuntu%20installation%20MS%20SQL%20Server.md)<br>
 <br></br>
-**Links:**
+**Links:**<br>
 [MS Official guide for SQL Server installation ](https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-ver16&tabs=ubuntu2204)
