@@ -13,7 +13,7 @@ In the described projects, I use Proxmox 8.x.
 
 ## Projects:
 
-### 💾 [MS SQL on Proxmox](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/blob/47767a62bd1939cd9d35a727cb7a6f0aef2147a0/MS%20SQL%20on%20Proxmox/MS%20SQL%20on%20Proxmox.md)
+### 💾 [MS SQL on Proxmox]([https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/blob/47767a62bd1939cd9d35a727cb7a6f0aef2147a0/MS%20SQL%20on%20Proxmox/MS%20SQL%20on%20Proxmox.md](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/blob/ad80de23b8f7c040002ff704d79a542f2e43da02/MS%20SQL%20on%20Proxmox/MS%20SQL%20on%20Proxmox.md))
 
 #### **Description**: 
 <div>A MS SQL Server instance created in an LXC container is essentially a self-contained environment where SQL Server software is installed and configured to run within the containerized environment provided by Proxmox.
