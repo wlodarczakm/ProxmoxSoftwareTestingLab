@@ -10,7 +10,7 @@ Hosting an MS SQL Server in a properly configured LXC container allows access to
 1.  ***Log in*** to Proxmox
 2.  ***Download*** Ubuntu CT template (here is [how to do that](www.google.pl))<br>
 3.  ***Create*** a Container ([Guide: How to Create a container](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/blob/4e236ccffef4daf9cce1e01fdf26f036c7fff384/MS%20SQL%20on%20Proxmox/Create%20Container%20-%20Ubuntu%20Template.md))
-4.  ***Run*** your Container (if You don't know how - [click here]())
+4.  ***Run*** your Container (if You don't know how - [click here](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/blob/8e00e0a95691f762f510b8121e31ce843388bfaf/Guides/How%20to%3A%20Start%20Container.md))
 5.  ***Configure***  Ubuntu + ***Download and install*** **MS SQL Server**
 
 
