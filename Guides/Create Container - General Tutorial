@@ -18,8 +18,6 @@ and tap on `Next`
 
 4.  `Disks` tab<br>
 ***select*** the `Storage` where the LXC container will be created, and ***enter*** the `Disk size`<br>
-👉Microsoft's [Ubuntu: Install SQL Server on Linux - Prerequisites](https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-ver16&tabs=ubuntu2204#prerequisites)
-![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/a410a0f0-d289-488d-80a8-34d97468336f)<br>
 Continue to the next tab
 
 5.  On the `CPU` section, ***choose*** the number of CPUs you want
