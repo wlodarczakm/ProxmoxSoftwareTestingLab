@@ -43,7 +43,7 @@ you will get output like this:<br>
 3️⃣ ***create*** sever admin password
 ![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/d0eed908-6429-4b1e-b488-c2a08b8c52ce)
 
-## Now your MS SQL Server is ready to go 👍
+## Now your MS SQL Server is ready to go👍
 
 
 
