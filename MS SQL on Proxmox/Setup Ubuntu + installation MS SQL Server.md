@@ -1,4 +1,6 @@
 # How to setup Ubumtu and Install the MS SQL Server
+
+### If you follow the steps from: [How to Start a Containr](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/blob/7b8de7c051e97e2fd94d0a21c5f83b30a9f69ade/Guides/How%20to%3A%20Start%20Container.md) - properly - You can proceed to the next steps to install MS SQL Server
 1. Install gnupg tool - using this command 👉 `apt install gnupg gnupg1 gnupg2` (type `y` and ***press*** Enter - on every prompt `Do you want to continue?`)<br>
 ![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/f634041b-07fc-43d9-82ce-607ec623b3b4)<br>
 
