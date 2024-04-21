@@ -9,7 +9,7 @@
 
 2.  On `General` tab⤵️<br>
 ***choose*** the `Node` <sup> or leave the default</sup>, <br>
-***set***: `CT ID`, `Hostname`,<br>
+***set***: `CT ID` (for example 300), `Hostname` (for example msSqlDb),<br>
 ***type in*** your root password in the `Password` and `Confirm password` fields
 
 ![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/00e2ac21-3a07-4e21-8850-f4cbf52411c9)<br>
@@ -25,7 +25,7 @@ Continue to the next tab
 
 5.  On the `CPU` section, ***choose*** the number of CPUs you want
 ![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/b29c1847-f8d5-48e6-95d4-131dcdde7e5c)<br>
-In my example, I'll give it 2 cores<br>
+<sup>In my example, I'll give it 2 cores</sup><br>
 Proceed to the next page
 
 6.  In the 'Memory' section, ***allocate*** as many megabytes as you require and ***press*** `Next`<br>
