@@ -7,13 +7,14 @@
 
 
 2. Use next command: `apt install software-properties-common` (type `y` and ***press*** Enter - on every prompt `Do you want to continue?`)<br>
-![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/0440396c-1936-450f-abfa-7e7796a14299)>br>
+![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/0440396c-1936-450f-abfa-7e7796a14299)<br>
 software-properties-common" in Ubuntu is a package that contains tools for managing software repositories, such as "add-apt-repository," allowing the addition of new software repositories to the system via a terminal command<br>
 You should get result like this:<br>
 ![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/b279950b-39cf-4093-b384-73ed398a0d48)<br>
 
 
-3. Install  `curl` - use the command: `apt install curl` (type `y` and ***press*** Enter - on every prompt `Do you want to continue?`) or use a command with an option `-y` 👉 `apt install curl -y` <br>
+3. ***Check*** if you have tool named: `curl` installed - type in `curl` and hit Enter - 
+if you don't have it installed - use the command: `apt install curl` (type `y` and ***press*** Enter - on every prompt `Do you want to continue?`) or use a command with an option `-y` 👉 `apt install curl -y` <br>
 ![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/b6b8d1e0-6938-401a-8537-d55e42284b49)<br>
 
 4. Now you can use first command from Microsoft's instruction:<br>
