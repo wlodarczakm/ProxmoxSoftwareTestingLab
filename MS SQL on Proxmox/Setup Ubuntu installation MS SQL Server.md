@@ -30,7 +30,8 @@ and next - step 2- command:<br>
 use second command from Microsoft's guide([ss above](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/f8e85a34-af3b-4a53-9a6b-33b4e6bcb841)) - step 1 
 `curl https://packages.microsoft.com/keys/microsoft.asc | sudo tee /etc/apt/trusted.gpg.d/microsoft.asc`<br>
 ![image](https://github.com/wlodarczakm/ProxmoxSoftwareTestingLab/assets/120977639/76d30832-7dda-4c1e-aa4c-decd3b85a036)<br>
-then use:<br>
+now use again:<br>
+- `apt update` and then use the following command👇 <br>
 - `apt install -y mssql-server`<br>
 you will get output like this:<br>
 `Please run 'sudo /opt/mssql/bin/mssql-conf setup'`<br>
